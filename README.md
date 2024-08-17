@@ -1,4 +1,4 @@
-### Hi there, I'm Fergo 👋
+### Hi there, I'm Farch 👋
 
 <!--
 **FergoDJ/FergoDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
